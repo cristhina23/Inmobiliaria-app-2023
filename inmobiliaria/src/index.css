@@ -23,7 +23,7 @@ a {
 }
 
 .paddings {
-  padding: 0.25rem;
+  padding: 1rem;
 }
 
 .innerWidth {
@@ -79,7 +79,7 @@ a {
 
 .secondaryText {
   color: rgb(140 139 139);
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 
 .orangeText {
@@ -120,7 +120,7 @@ a {
 @media (min-width: 1280px),
 (min-width: 768px) {
   .paddings {
-    padding: 0 4rem;
+    padding: 0 8rem;
   }
 }
 
